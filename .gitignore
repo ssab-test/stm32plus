@@ -54,3 +54,4 @@ ipch/
 obj/
 Debug_*/
 Release_*/
+.DS_Store
